@@ -30,11 +30,7 @@ INSERT DESCRIPTION HERE
 
 ## Summary:
 * Summarize the overall results of the deep learning model
-  * 
-* Include a recommendation for how a different model could solve this classification problem
-  * 
-* Explain your recommendation.
-  * 
+  * The different optimizations did not have a major impact on the accuracy
 
 ## Additional info
   * Since I wanted to investigate more than three different optimization, I decided to create a different file for each optimization.  Also, it was more beneficial to show each output seperately.
@@ -42,14 +38,4 @@ INSERT DESCRIPTION HERE
 
 ## Pics:
 
-[]();
-
-[]();
-
-[]();
-
-[]();
-
-[]();
-
-[]();
+[Module 19 Summary](https://github.com/tonyferri/Neural_Network_Charity_Analysis/blob/main/resources/Module%2019%20Summary.png);
