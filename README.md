@@ -2,7 +2,7 @@
 Module 19 Challenge
 
 ## Overview of the Analysis:
-INSERT DESCRIPTION HERE
+Create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
 ## Results: Using bulleted lists and images to support your answers, address the following questions.
 * Data Preprocessing
@@ -38,4 +38,4 @@ INSERT DESCRIPTION HERE
 
 ## Pics:
 
-[Module 19 Summary](https://github.com/tonyferri/Neural_Network_Charity_Analysis/blob/main/resources/Module%2019%20Summary.png);
+![Module 19 Summary](https://github.com/tonyferri/Neural_Network_Charity_Analysis/blob/main/resources/Module%2019%20Summary.png)
